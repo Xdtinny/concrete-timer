@@ -1,0 +1,22 @@
+name: concrete_inspection
+description: A new Flutter project to track concrete inspection processes.
+
+publish_to: 'none' # Remove this line if you're publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
+  flutter_lints: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
